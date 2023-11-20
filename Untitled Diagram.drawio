@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-20T05:36:46.900Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_1bs8z-pcKEmkdy2xmKB" version="22.1.3" type="github">
+<mxfile modified="2023-11-20T05:37:55.613Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HxNviMxU0ksnXfAJk84S" version="22.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,13 +80,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jArsyIoAfTxyTNQY9Qwl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" edge="1" parent="1">
+        <mxCell id="jArsyIoAfTxyTNQY9Qwl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;exitX=1;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945" y="318.95" as="sourcePoint" />
-            <mxPoint x="945" y="235.45" as="targetPoint" />
+            <mxPoint x="555" y="78.5" as="sourcePoint" />
+            <mxPoint x="805" y="78.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="945" y="281.45" />
-              <mxPoint x="945" y="281.45" />
+              <mxPoint x="780" y="78.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -189,6 +188,9 @@
         </mxCell>
         <mxCell id="jArsyIoAfTxyTNQY9Qwl-34" value="IAM Roles" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="642.0000000000002" y="385" width="78" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jArsyIoAfTxyTNQY9Qwl-35" value="Amazon S3" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="810.0000000000002" y="40" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
